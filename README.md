@@ -24,7 +24,7 @@ Understanding the trade-offs between scalability and security in blockchain Revi
 ### Paper Title “Secure Sharding: A Review of Scalability and Security Challenges”.
 #### Authors :David Lee.
 #### Publication Year:2019.
-     Maintaining data consistency between shards in sharded blockchains. Maintaining data consistency between shards in sharded Maintaining data consistency between shards in sharded blockchains.
+Maintaining data consistency between shards in sharded blockchains. Maintaining data consistency between shards in sharded Maintaining data consistency between shards in sharded blockchains.
 
 ## Paper 4:
 ### Paper Title “Blockchain Storage and Data Privacy: A Review.”
