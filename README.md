@@ -50,23 +50,23 @@ To effectively perform data sharding approach using the effective feature extrac
 
 # Hardware and Software Requirements
 ## Software Requirements: 
-Coding Language : Java
-Operating System : Windows 10
+1. Coding Language : Java
+2. Operating System : Windows 10
 ## Hardware Requirements:
-RAM : 8 GB
-Hard Disk : 40 GB
-Processor : Intel i5
+1. RAM : 8 GB
+2. Hard Disk : 40 GB
+3. Processor : Intel i5
 
 # Advantages
-Scalability: Sharding can significantly increase the transaction throughput of a blockchain network by allowing transactions to be processed in parallel on each shard.
-Efficiency: Sharding can reduce the computational resources required to process transactions on a blockchain network, making it more efficient and cost-effective.
-Security: Sharding can improve security of  blockchain networks by making it more difficult for hackers to compermise the system. if single shard is Compromised , it will not affect entire network
+1. Scalability: Sharding can significantly increase the transaction throughput of a blockchain network by allowing transactions to be processed in parallel on each shard.
+2. Efficiency: Sharding can reduce the computational resources required to process transactions on a blockchain network, making it more efficient and cost-effective.
+3. Security: Sharding can improve security of  blockchain networks by making it more difficult for hackers to compermise the system. if single shard is Compromised , it will not affect entire network
 
 # Applicaations
-Decentralized storage: Sharding can be used to create a decentralized storage system that is more secure and 	reliable than traditional cloud storage services.
-Supply chain management: Sharding can be used to 	create a more efficient and transparent supply chain 	management system.
-Healthcare: Sharding can be used to create a secure and private healthcare system that allows patients to control their own medical records.
-Voting systems: Sharding can be used to create a more secure and transparent voting system.
+1. Decentralized storage: Sharding can be used to create a decentralized storage system that is more secure and 	reliable than traditional cloud storage services.
+2. Supply chain management: Sharding can be used to 	create a more efficient and transparent supply chain management system.
+3. Healthcare: Sharding can be used to create a secure and private healthcare system that allows patients to control their own medical records.
+4. Voting systems: Sharding can be used to create a more secure and transparent voting system.
 
 # Conclusion
 The Proposed approach an effective Data Sharding scheme that is developed on the Blockchain Framework. Data nowadays has increased in value and volume that demands for an improvement in the infrastructure to be able to store more data efficiently and with improved security. The sharding strategy is one of the leading strategies that have been effective in the overcoming the scalability problem that plagues the traditional databases. The presented approach utilizes Linear Clustering along with the Blockchain framework to enable a secure and efficient data sharding approach on the Mongo DB database.
